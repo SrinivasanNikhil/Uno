@@ -1,8 +1,5 @@
 import java.util.*;
-/**
- * 
- * Test All
- */
+
 public class Game {
 
 	private Player player1;
